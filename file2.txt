@@ -1,0 +1,2 @@
+edit 1 :staged
+edit 2 :unstaged
